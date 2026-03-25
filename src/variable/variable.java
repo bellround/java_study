@@ -1,3 +1,5 @@
+package variable;
+
 // 필수로 적어야 하는코드
 public class variable
 {
