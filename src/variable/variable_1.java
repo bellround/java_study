@@ -1,7 +1,7 @@
 package variable;
 
 // 필수로 적어야 하는코드
-public class variable
+public class variable_1
 {
     public static void main(String[] args)
     {
