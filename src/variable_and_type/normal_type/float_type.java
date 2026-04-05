@@ -16,5 +16,13 @@ public class float_type
         System.out.println("var3: " + var3);
         System.out.println("var4: " + var4);
         System.out.println("var5: " + var5);
+
+        //e 사용하기
+        double var6 = 3e6;
+        float var7 = 3e6f;
+        double var8 = 2e-3;
+        System.out.println("var6: "+var6);
+        System.out.println("var7: "+var7);
+        System.out.println("var8: "+var8);
     }
 }
