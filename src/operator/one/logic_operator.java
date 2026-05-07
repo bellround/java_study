@@ -1,3 +1,5 @@
+package operator.one;
+
 public class logic_operator
 {
     public static void main(String[] args)
