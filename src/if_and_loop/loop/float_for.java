@@ -1,11 +1,10 @@
-public class for_a
+public class float_for
 {
     public static void main(String[] args)
     {
-        for (int i = 1; i <= 10; i++)
+        for (float i = 0.1f; i <= 1.0f; i += 0.1f)
         {
             System.out.println(i);
         }
     }
-    // System.out.println(i) 컴파일 에러
 }
